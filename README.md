@@ -1,6 +1,6 @@
-# Layout-React-Native
+# Layout-React-Native 👷‍♂️ 
 
-## Diseño con Flexbox
+## Diseño con Flexbox 🍱
 
 Un componente puede especificar el diseño usando el algoritmo Flexbox. Flexbox está diseñado para proporcionar un diseño uniforme en diferentes tamaños de pantalla.
 
@@ -46,7 +46,7 @@ Los Layuouts en React Native usan un subset de Flexbox (Digo "subset" porque no 
 		
 ```
 
-![img1](https://compresspng.com/images/compresspng/icon.png)
+![caso1](https://github.com/ciroribba/Layout-React-Native/blob/main/img/Screenshot_1.png)
 
 #### Caso 2
 
@@ -66,7 +66,7 @@ Los Layuouts en React Native usan un subset de Flexbox (Digo "subset" porque no 
 		
 ```
 
-![img1](https://compresspng.com/images/compresspng/icon.png)
+![caso2](https://github.com/ciroribba/Layout-React-Native/blob/main/img/Screenshot_2.png)
 
 #### Caso 3
 
@@ -86,7 +86,7 @@ Los Layuouts en React Native usan un subset de Flexbox (Digo "subset" porque no 
 		
 ```
 
-![img1](https://compresspng.com/images/compresspng/icon.png)
+![caso3](https://github.com/ciroribba/Layout-React-Native/blob/main/img/Screenshot_3.png)
 
 
 #### Caso 4
@@ -106,8 +106,9 @@ Los Layuouts en React Native usan un subset de Flexbox (Digo "subset" porque no 
 		
 ```
 
-![img1](https://compresspng.com/images/compresspng/icon.png)
+![caso4](https://github.com/ciroribba/Layout-React-Native/blob/main/img/Screenshot_4.png)
 
 ### Por último dejo un screen del proyecto de layoutImage donde se implementan conocimientos anteriores para mostrar otras formas de usar flexBox en react-native.
+- Hay que destacar que en este proyoyecto además se hace uso de scrollView, tanto vertical, como horizontal en la sección inspira, es un extra que seguro te puede servir 😉
 
-![img1](https://compresspng.com/images/compresspng/icon.png)
+![ejemplo](https://github.com/ciroribba/Layout-React-Native/blob/main/img/export.jpg)
