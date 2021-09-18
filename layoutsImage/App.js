@@ -10,88 +10,82 @@ const App = () => {
         <View style={{flexDirection: 'row'}}>
           <Image
             style={styles.banner}
-            source={require('./assets/img/bg.jpg')}
+            source={require('./assets/img/bn.jpg')}
           />
         </View>
         <View style={styles.contenedor}>
-          <Text style={styles.titulo}>Que hacer en Paris</Text>
+          <Text style={styles.titulo}>Inspira ...</Text>
           <ScrollView horizontal>
             <View>
               <Image
                 style={styles.ciudad}
-                source={require('./assets/img/actividad1.jpg')}
+                source={require('./assets/img/vi1.jpg')}
               />
             </View>
             <View>
               <Image
                 style={styles.ciudad}
-                source={require('./assets/img/actividad2.jpg')}
+                source={require('./assets/img/vi2.jpg')}
               />
             </View>
             <View>
               <Image
                 style={styles.ciudad}
-                source={require('./assets/img/actividad3.jpg')}
+                source={require('./assets/img/vi3.jpg')}
               />
             </View>
             <View>
               <Image
                 style={styles.ciudad}
-                source={require('./assets/img/actividad4.jpg')}
-              />
-            </View>
-            <View>
-              <Image
-                style={styles.ciudad}
-                source={require('./assets/img/actividad5.jpg')}
+                source={require('./assets/img/vi4.jpg')}
               />
             </View>
           </ScrollView>
-          <Text style={styles.titulo}>Los mejores alojamientos</Text>
+          <Text style={styles.titulo}>Creá tu estilo ...</Text>
           <View>
             <View>
               <Image
                 style={styles.mejores}
-                source={require('./assets/img/mejores1.jpg')}
+                source={require('./assets/img/prop1.jpg')}
               />
             </View>
             <View>
               <Image
                 style={styles.mejores}
-                source={require('./assets/img/mejores2.jpg')}
+                source={require('./assets/img/prop2.jpg')}
               />
             </View>
             <View>
               <Image
                 style={styles.mejores}
-                source={require('./assets/img/mejores3.jpg')}
+                source={require('./assets/img/prop3.jpg')}
               />
             </View>
           </View>
-          <Text style={styles.titulo}>Hospedajes en LA</Text>
+          <Text style={styles.titulo}>Vive ...</Text>
           <View style={styles.listado}>
             <View style={styles.listadoItem}>
               <Image
                 style={styles.mejores}
-                source={require('./assets/img/hospedaje1.jpg')}
+                source={require('./assets/img/det1.jpg')}
               />
             </View>
             <View style={styles.listadoItem}>
               <Image
                 style={styles.mejores}
-                source={require('./assets/img/hospedaje2.jpg')}
+                source={require('./assets/img/det2.jpg')}
               />
             </View>
             <View style={styles.listadoItem}>
               <Image
                 style={styles.mejores}
-                source={require('./assets/img/hospedaje3.jpg')}
+                source={require('./assets/img/det3.jpg')}
               />
             </View>
             <View style={styles.listadoItem}>
               <Image
                 style={styles.mejores}
-                source={require('./assets/img/hospedaje4.jpg')}
+                source={require('./assets/img/det4.jpg')}
               />
             </View>
           </View>
